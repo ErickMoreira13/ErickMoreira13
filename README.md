@@ -2,7 +2,7 @@
 
 - Name **Erick Moreira**
 - age: 18
-- Studying [***Ciência da Computação***]
+- Studying [***computer science***]
 
 <div align="center" style="display: inline_block">
   <a href="https://github.com/ErickMoreira13">
@@ -19,7 +19,7 @@
  </div>
   
  <div>
-   <img align="center" alt="Erick-Studying" width="500" src="https://i.pinimg.com/originals/23/60/17/2360177deef4dcbf5b029f3b97b3448b.jpg">
+   <img align="center" alt="Erick-Studying" width="500" src="https://i.pinimg.com/originals/23/60/17/2360177deef4dcbf5b029f3b97b3448b.jpg"/>
    - Estudando agora 📕:
    <img align="center" alt="Erick-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
  </div> 
@@ -31,8 +31,13 @@
   </div>
   
   <div>
+    - Partcipei de🤝:
+    [***Virtual_Library***](https://github.com/LoopMon/virtual_library) <br/>
+  </div>
+  
+  <div>
   - Principais repositórios:
-    Err...acho melhor voltar mais tarde...talvez essa aba não tenha carregadoa inda...<img alt="Erick-java" height="30" width="40" src="![image](https://user-images.githubusercontent.com/92134629/197406530-0977856d-e49b-4147-a806-814460dc3b2d.png)">
+    Err...acho melhor voltar mais tarde...talvez essa aba não tenha carregadoa inda...<img alt="Erick-java" height="30" width="40" src="https://user-images.githubusercontent.com/92134629/197406530-0977856d-e49b-4147-a806-814460dc3b2d.png">
   </div>
   
   
