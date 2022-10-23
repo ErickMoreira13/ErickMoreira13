@@ -19,15 +19,17 @@
  </div>
   
   - Estudando agora 📕:
-  <img align="center" alt="Erick-Studying" height="30" width="40" src="https://i.pinimg.com/originals/23/60/17/2360177deef4dcbf5b029f3b97b3448b.jpg">
-  <img align="center" alt="Erick-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="Erick-Studying" width="500" src="https://i.pinimg.com/originals/23/60/17/2360177deef4dcbf5b029f3b97b3448b.jpg">
+  <img align="center" alt="Erick-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   
   - Ferramentas 🛠:
-   <img align="center" alt="Erick-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-   <img align="center" alt="Erick-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg">
+   <img align="center" alt="Erick-VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+   <img align="center" alt="Erick-opera" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg">
 
   - Principais repositórios:
-  Err...acho melhor voltar mais tarde...talvez essa aba não tenha carregadoa inda...<img alt="Erick-java" height="30" width="40" src="https://thumbs.gfycat.com/CautiousImpassionedBoubou-size_restricted.gif">
+  Err...acho melhor voltar mais tarde...talvez essa aba não tenha carregadoa inda...<img alt="Erick-java" height="30" width="40" src="![image](https://user-images.githubusercontent.com/92134629/197406530-0977856d-e49b-4147-a806-814460dc3b2d.png)
+")
+">
   
   
           
