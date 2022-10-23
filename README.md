@@ -16,28 +16,31 @@
   <img align="center" alt="Erick-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="center" alt="Erick-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Erick-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <br/>
  </div>
-  
+  </br>
  <div>
    <img align="center" alt="Erick-Studying" width="500" src="https://i.pinimg.com/originals/23/60/17/2360177deef4dcbf5b029f3b97b3448b.jpg"/>
-   - Estudando agora 📕:
+   <br/>- Estudando agora 📕:<br/> 
    <img align="center" alt="Erick-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
  </div> 
  
   <div>
+  <br/>
   - Ferramentas 🛠:
    <img align="center" alt="Erick-VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
    <img align="center" alt="Erick-opera" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg">
   </div>
   
   <div>
-    - Partcipei de🤝:
-    [***Virtual_Library***](https://github.com/LoopMon/virtual_library) <br/>
+    - Partcipei de🤝: <br/>
+    <img align="center" alt="Erick-vlicon" height="25" width="25" src="https://github.com/LoopMon/virtual_library/blob/master/views/img/icone-grande.png">
+    <a href="https://github.com/LoopMon/virtual_library.git">Virtual_Library<a> <br/>
   </div>
   
   <div>
-  - Principais repositórios:
-    Err...acho melhor voltar mais tarde...talvez essa aba não tenha carregadoa inda...<img alt="Erick-java" height="30" width="40" src="https://user-images.githubusercontent.com/92134629/197406530-0977856d-e49b-4147-a806-814460dc3b2d.png">
+  <br/>- Principais repositórios: <br/>
+    Err...acho melhor voltar mais tarde...talvez essa aba não tenha carregadoa inda...<img alt="Erick-java" height="15" width="15" src="https://user-images.githubusercontent.com/92134629/197406530-0977856d-e49b-4147-a806-814460dc3b2d.png">
   </div>
   
   
