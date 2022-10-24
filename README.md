@@ -40,7 +40,7 @@
   
   <div>
   <br/>- Principais repositórios: <br/>
-    Err...acho melhor voltar mais tarde...talvez essa aba não tenha carregadoa inda...<img alt="Erick-java" height="15" width="15" src="https://user-images.githubusercontent.com/92134629/197406530-0977856d-e49b-4147-a806-814460dc3b2d.png">
+    Err...acho melhor voltar mais tarde...talvez essa aba não tenha carregadoa ainda...<img alt="Erick-java" height="15" width="15" src="https://user-images.githubusercontent.com/92134629/197406530-0977856d-e49b-4147-a806-814460dc3b2d.png">
   </div>
   
   
