@@ -1,37 +1,41 @@
-# Hello, developer🖐!
+# Olá, desenvolvedor🖐!
 
-- Name **Erick Moreira**
-- age: 18
-- Studying [***computer science***]
+
+    public class Pessoa{
+            String nome = Erick Moreira;
+            int idade = 19;
+            String estudou[] =  {"Java", "PHP, "JavaScript", "HTML", "CSS", "Banco de dados"};
+
+            public void estudar(){
+                    String estudando[] = {"C", "arduino"}
+            }
+      
+     }
 
 <div align="center">
   <a href="https://github.com/ErickMoreira13">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErickMoreira13&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickMoreira13&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  
-<div style="display: inline_block"><br>
-  - Já utilizei:
-  <img align="center" alt="Erick-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Erick-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-  <img align="center" alt="Erick-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Erick-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <br/>
- </div>
+
+ <div align="center">
+
+|Experiência|Estudando|Ferramentas|
+|   :-: |   :-:   |     :-:   |
+|<img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />|<img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />|<img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />|
+|<img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />|<img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />|<img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg" /> |
+| | |<img height="30" width="30" src="https://cdn.icon-icons.com/icons2/183/PNG/256/Dev_22513.png"/>|
+    
+
+</div>
   </br>
- <div>
-   <img align="center" alt="Erick-Studying" width="500" src="https://i.pinimg.com/originals/23/60/17/2360177deef4dcbf5b029f3b97b3448b.jpg"/>
-   <br/>- Estudando agora 📕:<br/> 
-   <img align="center" alt="Erick-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+ <div align="center">
+   <img alt="Erick-Studying" width="500" src="https://i.pinimg.com/originals/23/60/17/2360177deef4dcbf5b029f3b97b3448b.jpg"/>
  </div> 
  
   <div>
   <br/>
-  - Ferramentas 🛠:
-   <img align="center" alt="Erick-VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-   <img align="center" alt="Erick-opera" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg">
-  </div>
-  
+
   <div>
     - Partcipei de🤝: <br/>
     <img align="center" alt="Erick-vlicon" height="25" width="25" src="https://github.com/LoopMon/virtual_library/blob/master/views/img/icone-grande.png">
